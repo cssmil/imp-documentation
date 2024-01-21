@@ -10,7 +10,7 @@ export function ExternalLink({
 }: JSX.IntrinsicElements['a']) {
   return (
     <a href={href} target={target ?? '_blank'} rel="noopener" {...props}>
-      {children}
+      {children} x
     </a>
   );
 }
