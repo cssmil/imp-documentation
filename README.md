@@ -62,3 +62,4 @@ Si estás interesado en traducir `es.react.dev`, consulta los esfuerzos de tradu
 ## Licencia
 
 El contenido enviado a [es.react.dev](https://es.react.dev/) tiene licencia CC-BY-4.0, tal y como se encuentra en el archivo [LICENSE-DOCS.md](https://github.com/reactjs/es.react.dev/blob/main/LICENSE-DOCS.md).
+# imp-documentation
